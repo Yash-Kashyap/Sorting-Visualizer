@@ -8,3 +8,5 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
+Check project here : https://yash-kashyap.github.io/Sorting-Visualizer/
+
